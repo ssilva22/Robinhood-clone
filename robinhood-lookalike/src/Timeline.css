@@ -28,15 +28,15 @@
 }
 
 .timeline__button:hover {
-    color: #5AC53B;
+    color: #f50057;
 }
 
 .timeline__button.active {
-    color: #5AC53B;
+    color: #f50057;
 }
 
 .timeline__button.active {
-    border-bottom: 2px solid #5AC53B;
+    border-bottom: 2px solid #f50057;
 }
 
 /* .timeline__button: hover {

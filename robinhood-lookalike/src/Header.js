@@ -1,13 +1,13 @@
 import React from "react";
 import SearchOutlined from "@material-ui/icons/SearchOutlined";
 import "./Header.css";
-import Logo from './robinhood.svg'
+import WhatshotIcon from '@material-ui/icons/Whatshot';
 
 function Header() {
   return (
     <div className="header__wrapper">
       <div className="header__logo">
-        <img src={Logo} width={25}/>
+        <WhatshotIcon  color="secondary"/>
       </div>
       <div className="header__search">
         <div className="header__searchContainer">

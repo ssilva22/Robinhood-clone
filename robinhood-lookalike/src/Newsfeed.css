@@ -12,6 +12,7 @@
 }
 
 .newsfeed__chart__section {
+  
 }
 .newsfeed__buying__section {
   padding: 20px 0px 20px 0px;
@@ -56,7 +57,7 @@
 
 .newsfeed__popularlists__intro > p {
   font-weight: bold;
-  color: orange;
+  color: #f50057;
 }
 
 .newsfeed_popularlists_badges {
@@ -116,7 +117,7 @@
 
 .newsfeed__topmovers__intro__details p:nth-child(2) {
   font-weight: bold;
-  color: orange;
+  color: #f50057;
 }
 
 .newsfeed__topmovers__cards__container {
@@ -144,5 +145,5 @@
 }
 
 .newsfeed__topmovers__card__numbers {
-  color: #66ff00;
+  color: #f50057;
 }

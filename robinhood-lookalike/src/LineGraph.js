@@ -75,11 +75,11 @@ function LineGraph({ casesType }) {
               {
                 type: 'line',
                 backgroundColor: "black",
-                borderColor: "#5AC53B",
+                borderColor: "#f50057",
                 borderWidth: 2,
                 pointBorderColor: 'rgba(0, 0, 0, 0)',
                 pointBackgroundColor: 'rgba(0, 0, 0, 0)',
-                pointHoverBackgroundColor: '#5AC53B',
+                pointHoverBackgroundColor: '#f50057',
                 pointHoverBorderColor: '#000000',
                 pointHoverBorderWidth: 4,
                 pointHoverRadius: 6,
