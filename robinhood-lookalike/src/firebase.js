@@ -1,15 +1,15 @@
 import firebase from "firebase";
 
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyCHd2NwLZajL2sRGCQj9Lor-U8h037uP68",
-    authDomain: "robinhood-18491.firebaseapp.com",
-    databaseURL: "https://robinhood-18491.firebaseio.com",
-    projectId: "robinhood-18491",
-    storageBucket: "robinhood-18491.appspot.com",
-    messagingSenderId: "780218621678",
-    appId: "1:780218621678:web:085fd8f2d36d56c33f9dff",
-    measurementId: "G-EFJRF2GST1"
-  };
+  apiKey: "AIzaSyD66I0Lo3sqsCASjwOo9Q6FPXchq7V7zPI",
+  authDomain: "robinhood-clone-d2dd5.firebaseapp.com",
+  projectId: "robinhood-clone-d2dd5",
+  storageBucket: "robinhood-clone-d2dd5.appspot.com",
+  messagingSenderId: "982593648461",
+  appId: "1:982593648461:web:a0cec71fa59edd5b4f6904",
+  measurementId: "G-NKRJHQ6R46"
+};
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
 
